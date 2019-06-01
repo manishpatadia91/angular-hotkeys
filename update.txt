@@ -1,0 +1,13 @@
+# of analysis completed this week (3)
+	- Lab company Inline lookup
+	- Patient orders
+	- My Lab, DI & Procedure Favorite
+# of Data dictionary excel sheet prepared (2) 
+	- patient orders
+	- My Lab, DI & Procedure Favorite
+# of reviews has been created for special characters (0)
+# of reviews has been created for Patient Identifier (2)
+	- Progress notes > Orders tab > Order details
+	- Patient orders (Web)
+# of reviews has been created for data validation (0)
+# of reviews has been created for Exception handling (0)
